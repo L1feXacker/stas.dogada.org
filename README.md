@@ -1,3 +1,3 @@
-# dogada.org web-site
+# stas.dogada.org web-site
 
-https://dogada.org
+https://stas.dogada.org
