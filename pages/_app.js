@@ -1,5 +1,5 @@
 import TagManager from "react-gtm-module"
-import "bootswatch/dist/quartz/bootstrap.min.css"
+import "bootswatch/dist/vapor/bootstrap.min.css"
 //import "../styles/index.scss";
 
 if (typeof window !== "undefined" && process.env.NEXT_PUBLIC_GTM_ID) {
