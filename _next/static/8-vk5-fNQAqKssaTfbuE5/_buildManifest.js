@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":["static/chunks/pages/index-55604545ec50416d.js"],"/_error":["static/chunks/pages/_error-2280fa386d040b66.js"],"/rndaprivacy":["static/chunks/pages/rndaprivacy-db298766ae24e320.js"],sortedPages:["/","/_app","/_error","/rndaprivacy"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
